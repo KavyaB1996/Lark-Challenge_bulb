@@ -1,0 +1,76 @@
+.light1on{
+    height: 70px;
+    width: 70px;
+    background-color:orange;
+    border-radius: 50%;
+    margin: 2em;
+    display:inline-block;
+    position: absolute;
+  }
+
+  .light1off{
+    height: 70px;
+    width: 70px;
+    background-color:grey;
+    border-radius: 50%;
+    margin: 2em;
+    display:inline-block;
+    position: absolute;
+  }
+
+  .light2on{
+    height: 70px;
+    width: 70px;
+    background-color:orange;
+    border-radius: 50%;
+    margin: 2em;
+    display:inline-block;
+    position: relative;
+    left: 22em;
+  }
+
+  .light2off{
+    height: 70px;
+    width: 70px;
+    background-color:grey;
+    border-radius: 50%;
+    margin: 2em;
+    display:inline-block;
+    position: relative;
+    left: 22em;
+  }
+
+  .switch1{
+    width: 80px;
+    height: 50px;
+    border-radius: 10%;
+    border: black 1px solid;
+    display: inline-block;
+    margin-left: 2em;
+    top:400px;
+    position: absolute;
+    text-align: center;
+  }
+
+  .switch2{
+    width: 80px;
+    height: 50px;
+    border-radius: 10%;
+    border: black 1px solid;
+    display: inline-block;
+    position: relative;
+    left: 23em;
+    top:100px;
+    text-align: center;
+  }
+
+
+  .borderline{
+    height: 30em;
+    width:30em;
+    border: black solid 5px;
+    display: grid;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+  }
